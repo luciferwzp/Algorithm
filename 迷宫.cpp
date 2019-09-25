@@ -12,8 +12,7 @@
 struct node
 {
     int x;
-    比特科技
-        int y;
+    int y;
 
 };
 //queue实现
